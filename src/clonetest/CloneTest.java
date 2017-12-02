@@ -6,7 +6,7 @@
 package clonetest;
 
 /**
- *
+ * add a comment in newbranch to test merge !!! 10:08 02.12.2017
  * @author xyz
  */
 public class CloneTest {
