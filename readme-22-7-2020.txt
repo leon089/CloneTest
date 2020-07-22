@@ -1,0 +1,17 @@
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 7888-5236
+
+ Verzeichnis von C:\Users\User\Documents\GitHub\Test\CloneTest
+
+22.07.2020  20:35    <DIR>          .
+22.07.2020  20:35    <DIR>          ..
+22.07.2020  20:33                19 .gitignore
+22.07.2020  20:33             3.612 build.xml
+22.07.2020  20:33                85 manifest.mf
+22.07.2020  20:33    <DIR>          nbproject
+22.07.2020  20:33               662 newbranch_readme.txt
+22.07.2020  20:35                 0 readme-22-7-2020.txt
+22.07.2020  20:33                40 README.md
+22.07.2020  20:33    <DIR>          src
+               6 Datei(en),          4.418 Bytes
+               4 Verzeichnis(se), 186.998.829.056 Bytes frei
