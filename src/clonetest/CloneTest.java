@@ -16,7 +16,10 @@ public class CloneTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hallo");
+        String today="20210812";
+        today=today.substring(0,4)+"-"+today.substring(4,6)+"-"+today.substring(6,8);
+        
+        System.out.println("Hallo "+today);
         System.out.println("Hallo2");
         System.out.println("Hallo55");
         // add 23.11.2017
